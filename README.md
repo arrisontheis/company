@@ -1,1 +1,1 @@
-# http://company.github.io
+https://arrisontheis.github.io/company/
