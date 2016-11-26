@@ -1,0 +1,84 @@
+body,html{height: 100%;}
+
+.text-center{text-align: center;}
+.text-white{color: #fff !important;}
+.text-justify{text-align: justify;}
+
+.ui.massive.button, .ui.massive.buttons .button, .ui.massive.buttons .or {
+    font-size: 3.71428571rem;
+}
+
+.ui.secondary.inverted.pointing.menu {
+    background-color: #1B1C1D;
+    padding-bottom: 5px;
+}
+
+.padding-auto
+{
+  padding-top: 60px !important;
+}
+
+#cabecalho
+{
+	display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #1B1C1D;
+  -webkit-background-size: cover;
+  background-position: center;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-attachment:fixed;
+}
+
+	#cabecalho h1
+	{
+		font-size: 4em;
+	}
+#introducao
+{
+	 padding-top: 190px;
+}
+
+/*  SERVIÇOS  */
+#servicos
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  height: 100% auto;
+}
+
+/*  PORTFOLIO  */
+#portfolio
+{
+  padding-top: 40px;
+  
+  height: 100% auto;
+  background-color: #f0f0f0;
+}
+
+/*  SOBRE  */
+#sobre
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  height: 100% auto;
+  
+}
+
+/*  CONTATO  */
+#contato
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  height: 100% auto;
+  background-color: #f0f0f0;
+}
+
+/*  RODAPE  */
+.ui.inverted.segment, .ui.primary.inverted.segment {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
