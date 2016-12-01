@@ -13,6 +13,11 @@ body,html{height: 100%;}
     padding-bottom: 5px;
 }
 
+.ui.fixed.menu, .ui[class*="top fixed"].menu {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .padding-auto
 {
   padding-top: 60px !important;
@@ -54,7 +59,6 @@ body,html{height: 100%;}
 #portfolio
 {
   padding-top: 40px;
-  
   height: 100% auto;
   background-color: #f0f0f0;
 }
