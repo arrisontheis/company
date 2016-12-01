@@ -14,8 +14,8 @@ body,html{height: 100%;}
 }
 
 .ui.fixed.menu, .ui[class*="top fixed"].menu {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 
 .padding-auto
